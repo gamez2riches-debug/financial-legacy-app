@@ -1,0 +1,14 @@
+financial-legacy-app/
+ ├─ index.html
+ ├─ package.json
+ ├─ src/
+ │   ├─ main.jsx
+ │   ├─ App.jsx
+ │   ├─ index.css
+ │   └─ components/
+ │       ├─ Header.jsx
+ │       ├─ Footer.jsx
+ │       ├─ Home.jsx
+ │       ├─ Quiz.jsx
+ │       ├─ LeadForm.jsx
+ │       └─ Results.jsx
